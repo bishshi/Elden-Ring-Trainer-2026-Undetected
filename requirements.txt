@@ -1,0 +1,5 @@
+mouse
+opencv-python
+pywin32
+pynput
+pymem
